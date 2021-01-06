@@ -1,2 +1,2 @@
 # CinemaTicketPrices
-simple  Copnsole Application calsulating and checking which case we enter
+simple  Console Application calculating  currect TicktPrice  and checking which case we enter
